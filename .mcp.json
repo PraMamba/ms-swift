@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "lean-spec": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@leanspec/mcp",
+        "--project",
+        "${workspaceFolder}"
+      ]
+    }
+  }
+}
